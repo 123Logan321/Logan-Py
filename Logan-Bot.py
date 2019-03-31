@@ -1,4 +1,4 @@
-# Logan's first bot
+# Logan's first bot that does not work at all, because he is dumb
 
 import discord
 from discord.ext import commands
