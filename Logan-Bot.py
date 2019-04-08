@@ -31,4 +31,4 @@ async def kick(ctx, user: discord.Member):
     await bot.say(":boot: cya, {}. Ya Loser!".format(user.name))
     await bot.kick(user)
 
-bot.run("NTYxNTkzODAxOTE1NzYwNjUw.XJ-pzA.BZlxBgJVT58I93cPOvbqFn2YiWU")
+   
