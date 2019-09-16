@@ -12,7 +12,6 @@ from discord.ext.commands import CommandNotFound
 from discord import User
 import asyncio
 
-#id = 308011330202501120
 bot = commands.Bot(command_prefix="+")
 
 #Black listed words
@@ -90,5 +89,3 @@ async def fish(ctx):
     
 
     print ("An user has fished")
- 
-bot.run("NTYxNTkzODAxOTE1NzYwNjUw.XKurXw.XAEow7nPKPU4sER1S69E4jXLxSQ")
