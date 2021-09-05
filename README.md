@@ -1,3 +1,3 @@
 # Logan-Py
-My testing bot
-Just wanted to you know... create a bot
+
+Made a discord bot for friends, and also for fun
